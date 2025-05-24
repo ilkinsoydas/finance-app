@@ -1,3 +1,5 @@
+![finance_app_diagram](https://github.com/user-attachments/assets/b5d91179-c710-4c57-a087-d08cd33dd573)
+
 # Portföy Yönetim Uygulaması (Türkçe)
 
 Bu masaüstü uygulaması, kullanıcıların döviz ve altın varlıklarını yönetmelerine, güncel ve geçmiş kur bilgilerini takip etmelerine, varlıklarının kar/zarar durumlarını ve dağılımlarını görsel olarak izlemelerine olanak tanır.
